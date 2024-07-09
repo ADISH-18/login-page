@@ -1,0 +1,25 @@
+.image-container {
+    margin-top: 50px;
+    text-align: center;
+    margin: 20px;
+}
+
+.image-container img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 1px solid #ddd;
+}
+
+h1, h3 {
+    color: red;
+    text-align: center;
+}
+
+h3 i {
+    font-size: 18px;
+    margin: 0 5px;
+}
+.container{
+    margin-top: 150px;
+}
